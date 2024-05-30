@@ -1,0 +1,27 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/Unreal Projects/ElementalFuryFinal/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Unreal Projects/ElementalFuryFinal/Content/Level_Blank.umap",
+				"D:/Unreal Projects/ElementalFuryFinal/Content/WBP_MainInterface.uasset",
+				"D:/Unreal Projects/ElementalFuryFinal/Content/Struct_Page.uasset",
+				"D:/Unreal Projects/ElementalFuryFinal/Content/WBP_Choice.uasset",
+				"D:/Unreal Projects/ElementalFuryFinal/Content/DT_Book.uasset",
+				"D:/Unreal Projects/ElementalFuryFinal/Content/light_guy_Mat.uasset",
+				"D:/Unreal Projects/ElementalFuryFinal/Content/dark_woman.uasset",
+				"D:/Unreal Projects/ElementalFuryFinal/Content/light_guy.uasset",
+				"D:/Unreal Projects/ElementalFuryFinal/Content/Enum_Positions.uasset",
+				"D:/Unreal Projects/ElementalFuryFinal/Content/Struct_Image.uasset",
+				"D:/Unreal Projects/ElementalFuryFinal/Content/ElementalFuryMusic.uasset",
+				"D:/Unreal Projects/ElementalFuryFinal/Content/WBP_ImageWithPosition.uasset",
+				"D:/Unreal Projects/ElementalFuryFinal/Content/Button_Click.uasset",
+				"D:/Unreal Projects/ElementalFuryFinal/Content/BlackBar.uasset",
+				"D:/Unreal Projects/ElementalFuryFinal/Content/ElementalFuryStoryBook.uasset"
+			]
+		}
+	]
+}
